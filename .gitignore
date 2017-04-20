@@ -2,3 +2,4 @@ data
 bookstore.xml
 res.jpg
 *.pyc
+.idea

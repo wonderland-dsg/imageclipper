@@ -1,3 +1,4 @@
 data
 bookstore.xml
 res.jpg
+*.pyc
